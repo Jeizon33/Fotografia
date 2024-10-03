@@ -6,7 +6,7 @@ package com.mycompany.concursofoto;
 
 /**
  *
- * @author dario f
+ * @author JeisonH
  */
 public class ConcursoFoto {
 
